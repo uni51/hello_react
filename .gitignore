@@ -1,0 +1,7 @@
+/react_book-master
+/node_modules
+public/**
+!public/index.html
+
+.DS_Store
+.env
